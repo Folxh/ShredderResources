@@ -2,7 +2,7 @@
 
 Hello! I'm Pickle, and I make shredders in Plane Crazy on Roblox.
 <br>
-I make resources for help with making shredders, and this links to all of them.
+I also make resources for help with making shredders, and this links to all of them.
 
 Note: This is still a WIP. I'm by no means done with making these silly websites.
 
