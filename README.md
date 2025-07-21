@@ -18,7 +18,7 @@ Here are my resources for help with making shredders.
 
 ## Fun
 
-My websites for fun with making shredders, not extensive guides or anything like that (coming soon tho).
+My websites for fun with making shredders, not extensive guides or anything like that.
 
 - [Exact Demean](https://folxh.github.io/ExactDemean/)
 - [Random Shreddder Generator](https://folxh.github.io/RandomShredder/)
